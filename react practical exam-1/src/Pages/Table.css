@@ -1,0 +1,32 @@
+table {
+    background-color: rgb(141, 188, 204);
+    width: 600px;
+    border-radius: 10px;
+    margin: 0 20px;
+    padding: 0 20px;
+    border: 2px solid rgb(141, 188, 204);
+}
+
+h2 {
+    color:#000;
+    font-size: 30px;
+    margin: 3% 0;
+}
+
+table thead tr th,
+td {
+    padding: 2%;
+    color:#fff;
+    font-size: 20px;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    border: 0;
+    background-color: #fff;
+    color: rgb(141, 188, 204);
+    font-size: 25px;
+}
